@@ -1,6 +1,6 @@
 <h2>Hi, I'm Kristian!<h2>
 
-I'm a gradaute from UNLV doing research on Hawaiian picture wing flies such as microbial analysis of the gut microbiome and gene annotation of the transcriptome.
+I'm a gradaute from UNLV doing research on Hawaiian picture wing flies such as microbial analysis of the gut microbiome and gene annotation of the transcriptome as well as working on games in my free time.
 
 <h2>Languages</h2>
 
